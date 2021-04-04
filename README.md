@@ -8,5 +8,5 @@
  ### Client
   - Arduino, RFID(Radio-Frequency Identification), LED, Resitance
  ### Server
-  - C, Mysql, Apache, Raspberry Pi
+  - C, Mysql, Raspberry Pi
   
