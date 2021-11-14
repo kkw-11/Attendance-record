@@ -4,6 +4,9 @@
 - 출근 기록 관리 프로그램 개발
 - Arduino Client 카드리더기에 카드 인식을 하면 등록된 카드라면 Raspberry Pi Server로 카드 정보 전송, 출근 시간 DB에 저장, 등록되지 않은 카드라면 Buzzer를 울림
 
+## Background
+- 주 52시간 시행 이후 근태 관리 중요성이 더 증가 되었고, 이론으로만 배운 C언어를 이용해 응용력을 키우기 위 프로젝트
+
 ## Tech Stack
  ### Client(Arduino)
   - Arduino, RFID(Radio-Frequency Identification), LED, Buzzer, Resitance
